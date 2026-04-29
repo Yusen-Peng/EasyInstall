@@ -2,7 +2,7 @@
 
 This is a awesome list of easy installation instructions for tricky dependencies.
 
-## Falsh Attention
+## Flash Attention
 
 Why it's tricky: it needs GPU (a compute node) during installation.
 
