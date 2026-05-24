@@ -52,7 +52,6 @@ cd mamba
 git checkout v1.2.0
 python -m pip install --no-build-isolation .
 
-cd ~/TSB-Forecasting
 ```
 
 ## Uni2ts (Moirai)
@@ -76,5 +75,4 @@ python -m pip install hatchling
 # install manually without build isolation or resolving dependencies
 python -m pip install --no-build-isolation --no-deps .
 
-cd ~/TSB-Forecasting
 ```
