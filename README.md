@@ -1,4 +1,4 @@
-# EasyInstall
+# EasyInstall: Make Installation painless
 
 This is a awesome list of easy installation instructions for tricky dependencies.
 
